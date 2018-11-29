@@ -1,5 +1,5 @@
 # L Train Shutdown's Effects on Chelsea, East New York and Canarsie
-##### ![link1](https://canttakethel.github.io/L-Train-Shutdown-s-Effects/)
+##### !(https://canttakethel.github.io/L-Train-Shutdown-s-Effects/)
 This site and all of its contents have been produced in collaboration by:
 Ephraim Picker, Christine Ramiro, Christopher Melendez
 
