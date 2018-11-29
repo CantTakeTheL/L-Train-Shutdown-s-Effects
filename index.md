@@ -6,7 +6,7 @@ Ephraim Picker, Christine Ramiro, Christopher Melendez
 ___
 
 ### Chelsea
-##### For more information visit: ![link2](https://ephraimpicker.github.io)
+##### For more information visit ![Ephraim's site on Chelsea](https://ephraimpicker.github.io)
 
 - The L train shutdown would make it harder for people on the lower part of the neighborhood to travel to Brooklyn
 
@@ -16,7 +16,7 @@ ___
 
 
 ### East New York
-##### For more information visit: ![link3](https://christineramiro.github.io/East-New-York/) 
+##### For more information visit: ![Christine's site on East New York](https://christineramiro.github.io/East-New-York/) 
 
 - The shutdown would remove residents of an easy way into Manhattan
 
@@ -26,7 +26,7 @@ ___
 
 
 ### Canarsie 
-##### For more information visit: ![link4](https://ctash98.github.io/Canarsie-MHC-CSCI-127/)        
+##### For more information visit: ![Christopher's site on Canarsie](https://ctash98.github.io/Canarsie-MHC-CSCI-127/)        
      
 - Besides the L, there are no subway stations in the neighborhood. The L’s cut-off at Lorimer Street would force commuters to take the 3 at  Junius Street, several blocks north of Canarsie’s northernmost point.
 
