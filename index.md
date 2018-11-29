@@ -1,12 +1,12 @@
 # L Train Shutdown's Effects on Chelsea, East New York and Canarsie
-##### !(https://canttakethel.github.io/L-Train-Shutdown-s-Effects/)
+##### (https://canttakethel.github.io/L-Train-Shutdown-s-Effects/)
 This site and all of its contents have been produced in collaboration by:
 Ephraim Picker, Christine Ramiro, Christopher Melendez
 
 ___
 
 ### Chelsea
-##### For more information visit ![Ephraim's site on Chelsea](https://ephraimpicker.github.io)
+##### For more information visit: (https://ephraimpicker.github.io)
 
 - The L train shutdown would make it harder for people on the lower part of the neighborhood to travel to Brooklyn
 
@@ -16,7 +16,7 @@ ___
 
 
 ### East New York
-##### For more information visit: ![Christine's site on East New York](https://christineramiro.github.io/East-New-York/) 
+##### For more information visit: (https://christineramiro.github.io/East-New-York/) 
 
 - The shutdown would remove residents of an easy way into Manhattan
 
@@ -26,7 +26,7 @@ ___
 
 
 ### Canarsie 
-##### For more information visit: ![Christopher's site on Canarsie](https://ctash98.github.io/Canarsie-MHC-CSCI-127/)        
+##### For more information visit: (https://ctash98.github.io/Canarsie-MHC-CSCI-127/)        
      
 - Besides the L, there are no subway stations in the neighborhood. The L’s cut-off at Lorimer Street would force commuters to take the 3 at  Junius Street, several blocks north of Canarsie’s northernmost point.
 
