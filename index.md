@@ -28,9 +28,8 @@ ___
 ### Canarsie 
 ##### For more information visit: (https://ctash98.github.io/Canarsie-MHC-CSCI-127/)        
      
-- Besides the L, there are no subway stations in the neighborhood. The L’s cut-off at Lorimer Street would force commuters to take the 3 at  Junius Street, several blocks north of Canarsie’s northernmost point.
-
-- Again, free MetroCard transfers are expected between the 3 train at Junius Street and the L train at Livonia Avenue
+- Besides the L, there are no subway stations in the neighborhood. The L’s cut-off at Canarsie-Rockaway would force commuters to take buses to access nearby trains.
 
 - Increased service on the B6 bus would open up another transit option. The B6 moves through Canarsie along Glenwood Road and reaches the Brooklyn College- Flatbush Avenue station with the 2 and 5 trains.
+
 
