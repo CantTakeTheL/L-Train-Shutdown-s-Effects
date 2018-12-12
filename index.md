@@ -3,7 +3,7 @@
 This site and all of its contents have been produced in collaboration by:
 Ephraim Picker, Christine Ramiro, Christopher Melendez
 
-![map](LTrainShutDown.png)
+![map](LTrainShutDown.PNG)
 
 ___
 
